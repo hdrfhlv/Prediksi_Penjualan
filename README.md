@@ -70,8 +70,8 @@ Pada fitur terakhir, Random Forest memiliki kesalahan relatif rata-rata sekitar 
 1. Clone repositori:
 
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
-   cd NAMA-REPO
+   git clone https://github.com/hdrfhlv/Prediksi_Penjualan.git
+   cd Prediksi_Penjualan
    ```
 
 2. Pasang library:
